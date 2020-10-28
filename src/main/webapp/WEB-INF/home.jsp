@@ -12,14 +12,11 @@
 </head>
 </head>
 <body>
-<h1 align="center">Welcome to DevOps World </h1>
-<h1 align="center">This is Product based on Chain-sys orgaon</h1>
+<h1 align="center">Star Healthcare </h1>
+<h1 align="center">Galaxy project</h1>
 <hr>
 <div style="text-align: center;">
-	<span>
-		<img src="${mithunlogo}" alt="" width="100"/>
-
-	</span>
+	
 	<span style="font-weight: bold;">
 	       Automation Devops method.	
 	</span>
@@ -27,8 +24,8 @@
 <hr>
 	<p> Service : <a href="${pageContext.request.contextPath}/services/getEmployeeDetails">Get Employee Details </p>
 <hr>
-<p align=center>Devops is very good methodology</p>
-<p align=center><small>Copyrights 2018 by <a href="http://mithuntechnologies.com/">Mithun Technologies</a> </small></p>
+<p align=center>Lets play the game for Devops</p>
+<p align=center><small>Copyrights 2018 by</small></p>
 
 </body>
 </html>
