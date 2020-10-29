@@ -8,7 +8,6 @@
 <spring:url value="/resources/images/mithunlogo.jpg" var="mithunlogo" />
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 <title>Devops world</title>
-<link href="${mithunlogo}" rel="icon">
 </head>
 </head>
 <body>
@@ -25,7 +24,7 @@
 	<p> Service : <a href="${pageContext.request.contextPath}/services/getEmployeeDetails">Get Employee Details </p>
 <hr>
 <p align=center>Lets play the game for Devops</p>
-<p align=center><small>Copyrights 2018 by</small></p>
+<p align=center><small>Copyrights 2020 by</small></p>
 
 </body>
 </html>
